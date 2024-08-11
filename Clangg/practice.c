@@ -3,6 +3,6 @@
 int main(void)
 {
 	//ddd
-	printf("Á¦¹ß µÇ¶ó0");
+	printf("ÃÂ¦Â¹ÃŸ ÂµÃ‡Â¶Ã³0");
 	return 0;
 }
