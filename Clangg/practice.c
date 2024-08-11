@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	//ddd
-	printf("제발 되라0");
+	//이름변경
+	printf("github lab");
 	return 0;
 }
