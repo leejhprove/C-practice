@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	//ÀÌ¸§º¯°æ
+	//ì´ë¦„ë³€ê²½
 	printf("github lab");
 	return 0;
 }

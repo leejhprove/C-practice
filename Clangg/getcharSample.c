@@ -7,8 +7,9 @@ int main (void)
 	ch = getchar();
 	putchar(ch);
 	putchar('z');
+	putchar("A");
 	printf("test");
-	// i wanna test 
+	// i wanna test dddd
 	return 0;
  
 }
